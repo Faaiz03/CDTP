@@ -1,0 +1,25 @@
+{
+  "name": "YTU EEF Robot Evaluator (Module D)",
+  "short_name": "YTU Robot Eval",
+  "description": "Mobile visual evaluation, 1Hz BLE telemetry, and tamper-proof jury reporting for the Two-Wheeled Indoor Patient Assistance Robot.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#020617",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "./icons/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
